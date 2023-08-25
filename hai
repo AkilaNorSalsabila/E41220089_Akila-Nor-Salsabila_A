@@ -1,0 +1,6 @@
+package hai
+public class Hai {
+    public static void main(String[] rgs) {
+        System.out.println(("Hai");
+    }
+}
